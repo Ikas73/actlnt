@@ -1,2 +1,2 @@
 # actlnt
-Acrupación de documentos lnt
+Agrupación de documentos lnt
